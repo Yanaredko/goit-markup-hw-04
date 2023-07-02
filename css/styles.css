@@ -436,12 +436,12 @@ fill: var(--lightslate);
 
 .whole-footer {
     display: flex;
-    align-items: baseline
+    align-items: baseline;
+    margin-left: 156px;
 }
 
 .footer-leftside {
     margin-right: 120px;
-    margin-left: 156px;
 }
 
 .logo.link.link-footer {
