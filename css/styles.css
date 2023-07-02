@@ -408,7 +408,7 @@ adv-neighbour:not(:last-child) {
 }
 
 .customer-link:hover, 
-.custom-link:focus {
+.customer-link:focus {
     border-color: #404bbf;
     color: #404bbf;
 }
